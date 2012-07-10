@@ -1,0 +1,14 @@
+[07-May-2012 21:37:56] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rajanla1/public_html/store/lib/Zend/Db/Statement/Pdo.php on line 290
+[07-May-2012 17:32:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/rajanla1/public_html/store/ex.php on line 2
+[10-Jul-2012 09:43:37] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 64 bytes) in /home1/rajanla1/public_html/OTTOSCHADE.NET/artist/lib/Varien/Object.php on line 117
+[10-Jul-2012 09:44:18] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 84 bytes) in /home1/rajanla1/public_html/OTTOSCHADE.NET/artist/lib/Varien/Data/Collection.php on line 562
+[10-Jul-2012 09:44:32] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 82 bytes) in /home1/rajanla1/public_html/OTTOSCHADE.NET/artist/lib/Varien/Object.php on line 270
+[10-Jul-2012 09:45:38] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24 bytes) in /home1/rajanla1/public_html/OTTOSCHADE.NET/artist/app/code/core/Mage/Core/Model/Abstract.php on line 122
+[10-Jul-2012 09:46:17] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 64 bytes) in /home1/rajanla1/public_html/OTTOSCHADE.NET/artist/lib/Varien/Object.php on line 117
+[10-Jul-2012 11:25:55] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 491520 bytes) in /home1/rajanla1/public_html/OTTOSCHADE.NET/artist/lib/Zend/Locale/Data.php on line 521
+[10-Jul-2012 11:34:03] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7656 bytes) in /home1/rajanla1/public_html/OTTOSCHADE.NET/artist/lib/Varien/Image/Adapter/Gd2.php on line 51
+[10-Jul-2012 11:34:11] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7656 bytes) in /home1/rajanla1/public_html/OTTOSCHADE.NET/artist/lib/Varien/Image/Adapter/Gd2.php on line 51
+[10-Jul-2012 11:34:18] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7656 bytes) in /home1/rajanla1/public_html/OTTOSCHADE.NET/artist/lib/Varien/Image/Adapter/Gd2.php on line 51
+[10-Jul-2012 11:34:22] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7656 bytes) in /home1/rajanla1/public_html/OTTOSCHADE.NET/artist/lib/Varien/Image/Adapter/Gd2.php on line 51
+[10-Jul-2012 11:34:25] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7656 bytes) in /home1/rajanla1/public_html/OTTOSCHADE.NET/artist/lib/Varien/Image/Adapter/Gd2.php on line 51
+[10-Jul-2012 13:29:16] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7656 bytes) in /home1/rajanla1/public_html/OTTOSCHADE.NET/artist/lib/Varien/Image/Adapter/Gd2.php on line 51
